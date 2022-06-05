@@ -1,0 +1,11 @@
+140.82.112.4
+140.82.112.4
+
+140.82.112.4    github.com
+140.82.113.4    github.com
+
+git config --global user.email "wolify@qq.com"
+ssh-keygen -t rsa -C  wolify@qq.com
+
+git pull origin main
+git push -u origin master
